@@ -83,8 +83,7 @@ Want help with:
 - AI/ML experimentations and prototype deployments
 
 If you have an interesting project, open-source idea, or robotics build — **let's talk**.
-
----
+![I am ready to collaborate.](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2p3bjJ4dmk4b2ppdGNyeTdvanppM2I4N3p4M212azlrcWI2ZzZ0cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VjT6Xa56ib1Qs/giphy.gif)
 
 ## 📫 Connect / Socials
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/jaysurywanshi2007) 

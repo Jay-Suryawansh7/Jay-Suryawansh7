@@ -56,9 +56,9 @@ Building immersive developer experiences & multi-domain innovation ecosystems.
 
 
 
-## 📈 GitHub Stats
-![Jay's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jay-Suryawansh7&theme=dark&show_icons=true&include_all_commits=true&count_private=true)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jay-Suryawansh7&layout=compact&theme=dark)
+![Jay's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Jay-Suryawansh7&theme=dark&show_icons=true&include_all_commits=true&count_private=true)
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Jay-Suryawansh7&layout=compact&theme=dark)
+
 
 ---
 

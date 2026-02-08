@@ -92,31 +92,8 @@ Turning ideas into scalable products, communities, and machines.
 
 ### Design & Media
 
-* Figma · Framer · After Effects
-*## 🧬 Kaggle
+* Figma · Framer · After Effects *
 
-<!-- After you set up the Kaggle Badges GitHub Action, these SVGs will be generated in your repo. -->
-<p align="center">
-  <a href="https://www.kaggle.com/jaysurya909">
-    <img src="./kaggle-badges/CompetitionsRank/plastic-black.svg" alt="Kaggle Competitions Rank"/>
-    <img src="./kaggle-badges/DatasetsRank/plastic-black.svg" alt="Kaggle Datasets Rank"/>
-    <img src="./kaggle-badges/NotebooksRank/plastic-black.svg" alt="Kaggle Notebooks Rank"/>
-    <img src="./kaggle-badges/DiscussionsRank/plastic-black.svg" alt="Kaggle Discussions Rank"/>
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://www.kaggle.com/jaysurya909">
-    <img src="./kaggle-plates/Competitions/white.svg" alt="Kaggle Competitions Medals"/>
-    <img src="./kaggle-plates/Datasets/white.svg" alt="Kaggle Datasets Medals"/>
-    <img src="./kaggle-plates/Notebooks/white.svg" alt="Kaggle Notebooks Medals"/>
-    <img src="./kaggle-plates/Discussions/white.svg" alt="Kaggle Discussions Medals"/>
-  </a>
-</p>
-
----
-**
----
 
 ## 📊 GitHub Analytics
 

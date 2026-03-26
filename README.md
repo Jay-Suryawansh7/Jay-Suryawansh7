@@ -89,20 +89,16 @@ Turning ideas into scalable products, communities, and intelligent machines.
 - Focused on automating electronics design for creators & startups
 - Building market-ready workflows
 
-### 🤖 ARC — Interactive Robot Platform
-- ESP32-based emotional display + voice interaction
-- Upcycled hardware + custom firmware
-- Focus on HRI (Human–Robot Interaction)
+- ### 🌟 Orion — AI Code Editor Landing Page
+- Production-ready Next.js landing page for the world's first deterministic AI code editor
+- Fully typed, component-based architecture with Tailwind CSS and Framer Motion animations
+- Migrated from single-file HTML to scalable, maintainable design
 
-### 🌐 CogneoVerse Platform
-- Multi-department research ecosystem
-- CMS-driven architecture + API-first systems
-- Community + education + R&D
-
-### 📹 Creator Automation Series
-- Comment → DM → funnel systems
-- Affordable tools for Indian creators
-- Documented publicly for learning
+### 💬 ThreadVerse — Full-Stack Social Platform
+- Real-time messaging and community interaction system
+- Full-stack TypeScript: Next.js frontend, Node.js backend, Neo4j database
+- Features: HomeFeed, chat, user profiles, authentication, and premium styling
+- Desktop Electron app variant for enhanced user experience
 
 **More live work in pinned repositories.**
 

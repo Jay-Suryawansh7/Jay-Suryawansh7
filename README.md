@@ -1,18 +1,18 @@
 <!-- README.md — GitHub Profile for Jay Suryawanshi -->
-<!-- Auto-generated from live GitHub data: repos, languages, releases, contributions -->
+<!-- Auto-generated from live GitHub data + Profile.pdf (certs, experience, education) -->
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=Jay%20Suryawanshi&fontSize=50&fontColor=ffffff&animation=fadeIn" alt="header"/>
 </div>
 
-<h3 align="center">🚀 Builder · Engineer · Systems Architect</h3>
-<p align="center">Turning ideas into scalable products, communities, and intelligent machines.</p>
+<h3 align="center">🚀 Full-Stack Developer · AI/UX Designer · Product Manager</h3>
+<p align="center">Building impactful tech solutions at the intersection of code, design, and product.</p>
 
 <p align="center">
   <a href="https://portfolio-amber-theta-77.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=web&logoColor=white"/>
   </a>
-  <a href="https://linkedin.com/in/jaysuryawanshi">
+  <a href="https://linkedin.com/in/jay-suryawanshi-200716jay">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://twitter.com/jay_being_curious">
@@ -105,6 +105,29 @@
   </tr>
 </table>
 
+<details>
+<summary><h3>📦 More Projects</h3></summary>
+
+| Project | Description | Tech |
+|---------|-------------|------|
+| [OpenAutomation](https://github.com/Jay-Suryawansh7/OpenAutomation) | No-code automation platform inspired by Zapier | JavaScript |
+| [trim-safe](https://github.com/Jay-Suryawansh7/trim-safe) | Safe string trimming utilities | JavaScript |
+| [OCR](https://github.com/Jay-Suryawansh7/OCR) | Optical Character Recognition experiments | Python |
+| [coderfest](https://github.com/Jay-Suryawansh7/coderfest) | Coding festival platform / landing | TypeScript |
+| [IronMan-Landing](https://github.com/Jay-Suryawansh7/IronMan-Landing) | Animated product landing page | TypeScript |
+| [UI-UX-PROJECT-1](https://github.com/Jay-Suryawansh7/UI-UX-PROJECT-1) | Design system & UI exploration | TypeScript |
+| [Oscilloscope](https://github.com/Jay-Suryawansh7/Oscilloscope) | Hardware signal visualization tool | — |
+| [PCB-Design-Projects](https://github.com/Jay-Suryawansh7/PCB-Design-Projects) | KiCad PCB design portfolio | HTML |
+| [Agastya-Landing](https://github.com/Jay-Suryawansh7/Agastya-Landing) | Landing page for Agastya hardware project | TypeScript |
+| [Portfolio](https://github.com/Jay-Suryawansh7/Portfolio) | Personal developer portfolio site | TypeScript |
+| [Badminton-Made-Easy](https://github.com/Jay-Suryawansh7/Badminton-Made-Easy) | Sports utility / booking app | TypeScript |
+| [Nirvanaa-](https://github.com/Jay-Suryawansh7/Nirvanaa-) | Wellness / meditation platform | TypeScript |
+| [HMS](https://github.com/Jay-Suryawansh7/HMS) | Hospital / Hotel Management System | TypeScript |
+| [CIR-CLIENT](https://github.com/Jay-Suryawansh7/CIR-CLIENT) | Creator In Residence client app | TypeScript |
+| [CIR-ADMIN](https://github.com/Jay-Suryawansh7/CIR-ADMIN) | Creator In Residence admin dashboard | JavaScript |
+
+</details>
+
 ---
 
 ## 🌱 Open Source Contributions
@@ -146,18 +169,95 @@
 
 ---
 
-## 🛠️ Tech Stack (by Real Usage)
+## 💼 Experience
+
+<table>
+  <tr>
+    <td width="20%"><strong>Dec 2025 – Present</strong></td>
+    <td>
+      <strong>Web Developer</strong> @ IPS Academy Indore — Tech Club<br/>
+      <sub>Building solutions that create impact for the college tech community.</sub>
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Jul 2025 – Aug 2025</strong></td>
+    <td>
+      <strong>Designer</strong> @ rebelroarr.in<br/>
+      <sub>Designed brand visuals and improved product UI for the startup.</sub>
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Nov 2024 – Jun 2025</strong></td>
+    <td>
+      <strong>Intern</strong> @ Masai School<br/>
+      <sub>Produced engaging educational content for digital platforms.</sub>
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Jun 2022 – 2025</strong></td>
+    <td>
+      <strong>User Interface Designer</strong> @ Fiverr (Freelance)<br/>
+      <sub>Started UI design journey in 9th grade. Within a year, began freelancing and earned over ₹70,000 through client projects. Three years of hands-on experience in UI/UX design across personal and professional work. Currently teaching UI/UX online through social media, helping aspiring designers build real-world skills.</sub>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🎓 Education
+
+<table>
+  <tr>
+    <td width="20%"><strong>2025 – 2029</strong></td>
+    <td>
+      <strong>Bachelor of Technology — Computer Science</strong><br/>
+      <sub>IPS Academy, Indore</sub>
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Apr 2025 – Dec 2025</strong></td>
+    <td>
+      <strong>Certification — Product Management</strong><br/>
+      <sub>Masai School</sub>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🏅 Certifications
 
 <p align="center">
-  <!-- Ranked by actual repo count from GitHub API -->
+  <img src="https://img.shields.io/badge/Aarohn%20Hackathon-Participant-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Feature%20Engineering-Certified-green?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Pandas%20Course-Certified-green?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Creator%20In%20Residence-Alumni-orange?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Product%20Management-Masai%20Certified-purple?style=for-the-badge"/>
+</p>
+
+---
+
+## 🛠️ Tech Stack & Skills
+
+### Languages & Frameworks
+<p align="center">
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+</p>
+
+### Product & Design
+<p align="center">
+  <img src="https://img.shields.io/badge/Agile%20Methodologies-Expert-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Kanban-Workflow-brightgreen?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Business%20Analysis-Strategic-orange?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/UI%2FUX%20Design-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Product%20Management-Go--to--Market-purple?style=for-the-badge"/>
 </p>
 
 ---
@@ -176,6 +276,8 @@
 - 🛡️ **Scaling `Sudarshan`** — community-first crisis response tooling
 - 🎨 **Polishing `koolur`** — zero-dependency developer-experience utilities
 - 🤖 **Experimenting with agentic systems** — OpenComet, exploringbrowser, autoresearch
+- 🏗️ **Building OpenAutomation** — no-code automation platform inspired by Zapier
+- 🎓 **Pursuing B.Tech CS** at IPS Academy while freelancing and teaching UI/UX
 
 ---
 
@@ -183,7 +285,7 @@
   <img src="https://komarev.com/ghpvc/?username=Jay-Suryawansh7&color=blueviolet&style=flat-square" alt="Profile Views"/>
   <br/><br/>
   <strong>Always building. Always learning. Always shipping.</strong>
-  <p>🤝 Open to high-impact collaborations on robotics, AI, and hardware-software systems.</p>
+  <p>🤝 Open to high-impact collaborations on AI, product design, full-stack engineering, and hardware-software systems.</p>
 </div>
 
 <div align="center">
